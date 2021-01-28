@@ -12,4 +12,8 @@ The dataset is collected from the editorial columns of local news papers.
 The data has been transliterated to English script from the Manipuri-Bengali script.
 
 The purpose of collecting such data, is because to ensure extension of the current work of sentiment analysis on Manipuri language to the data collected from social media sites.
-[ As most of the current generation write the text in English script in social media sites although the text are in Manipuri language ]
+
+
+To acquire a copy of the dataset, please click the link below:
+
+https://docs.google.com/forms/d/e/1FAIpQLSfSH2XyfX9l58B_3b-hOFm0d0bTsVB4uR8aOXeLTTH_9daHJQ/viewform?usp=pp_url
