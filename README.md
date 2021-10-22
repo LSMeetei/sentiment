@@ -1,4 +1,4 @@
-# sentiment
+# ManipuriSentimentAnalysis
 Sentiment analysis data for Manipuri language
 
 The repository has two files:
